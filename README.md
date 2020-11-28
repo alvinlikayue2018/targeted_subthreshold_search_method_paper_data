@@ -1,5 +1,5 @@
 # Data release for ``Targeted Sub-threshold Search for Strongly-lensed Gravitational-wave Events"
-This git repository serves to provide search results for the paper ````Targeted Sub-threshold Search for Strongly-lensed Gravitational-wave Events".
+This git repository serves to provide search results for the paper ````Targeted Sub-threshold Search for Strongly-lensed Gravitational-wave Events"[1].
 
 In this git repository you will find:
 * Full candidate list of targeted-subthreshold search for LIGO-VIRGO observing runs O1/O2.
@@ -135,4 +135,21 @@ Note that candidates are ranked in ascending order of FAR.
 | 123 | GW170809 | 1130229279.89 | 8.4 | 3.829E-07 | 0.0 | - |
 | 124 | GW170814 | 1176824255.30 | 8.2 | 3.854E-07 | 0.0 | - |
 
+# Reference
+[1] Targeted Sub-threshold Search for Strongly-lensed Gravitational-wave Events
 
+Alvin K.Y. Li (Hong Kong, Chinese U.), Rico K.L. Lo (LIGO Lab., Caltech), Surabhi Sachdev (LIGO Lab., Caltech and Penn State U., University Park, IGC), C.L. Chan, E.T. Lin et al.
+
+e-Print: 1904.06020 [gr-qc]
+
+----
+
+[2] New binary black hole mergers in the second observing run of Advanced LIGO and Advanced Virgo
+
+Tejaswi Venumadhav (Princeton, Inst. Advanced Study), Barak Zackay (Princeton, Inst. Advanced Study), Javier Roulet (Princeton U. (main)), Liang Dai (Princeton, Inst. Advanced Study), Matias Zaldarriaga (Princeton, Inst. Advanced Study)
+
+e-Print: 1904.07214 [astro-ph.HE]
+
+DOI: 10.1103/PhysRevD.101.083030 (publication)
+
+Published in: Phys.Rev.D 101 (2020) 8, 083030
