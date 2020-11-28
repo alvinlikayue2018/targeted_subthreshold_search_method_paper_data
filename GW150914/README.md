@@ -4,7 +4,7 @@
 <img src="reduced_bank_together-pngform_GW150914_new.png" alt="This is me" width="600"/>
 
 ## Range against combined FAR comparison plot
-<img src="Range_FAR_plot_GW150914_O1C9_new.pdf" alt="This is me" width="600"/>
+You can download the figure from [range_far_GW150914.pdf](https://git.ligo.org/alvin.li/targeted_subthreshold_search_method_paper_data/-/blob/master/GW150914/Range_FAR_plot_GW150914_O1C9_new.pdf).
 
 ## Candidate list
 
