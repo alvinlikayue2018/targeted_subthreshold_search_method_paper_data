@@ -6,6 +6,7 @@
 ## Candidate list
 
 Note that candidates are ranked in ascending order of FAR.
+
 | Rank | Targeted Event | GPS time | SNR | FAR | Skymap overlap (%) | Remark |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | 1 | GW150914 | 1126259462.43 | 24.3 | 2.444E-27 | 94.8 | This is GW150914 itself. |
