@@ -4,7 +4,7 @@ This git repository serves to provide search results for the paper ````Targeted 
 In this git repository you will find:
 * Full candidate list of targeted-subthreshold search for LIGO-VIRGO observing runs O1/O2.
 * Reduced template bank plot for O1/O2 gravitational wave events.
-* Skymaps of all found possible lensed candidates for each targeted events.
+* Range vs combined FAR comparison plots of targeted-subthreshold search for LIGO-VIRGO observing runs O1/O2.
 
 ## Full candidate list
 Note that candidates are ranked in ascending order of FAR.
