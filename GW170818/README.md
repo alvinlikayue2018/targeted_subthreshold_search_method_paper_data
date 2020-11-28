@@ -1,4 +1,4 @@
-# Data products of targeted search for GW150914
+# Data products of targeted search for GW170823
 
 ## Reduced template bank
 <img src="reduced_bank_together-pngform_GW170818.png" alt="This is me" width="600"/>
