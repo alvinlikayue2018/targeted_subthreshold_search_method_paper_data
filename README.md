@@ -1,5 +1,5 @@
-# Data release for ``Targeted Sub-threshold Search for Strongly-lensed Gravitational-wave Events"
-This git repository serves to provide search results for the paper ````Targeted Sub-threshold Search for Strongly-lensed Gravitational-wave Events"[1].
+# Data release for "Targeted Sub-threshold Search for Strongly-lensed Gravitational-wave Events"
+This git repository serves to provide search results for the paper "Targeted Sub-threshold Search for Strongly-lensed Gravitational-wave Events"[1].
 
 In this git repository you will find:
 * Full candidate list of targeted-subthreshold search for LIGO-VIRGO observing runs O1/O2.
